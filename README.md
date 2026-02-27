@@ -1,16 +1,17 @@
-## Hi there 👋
+ Olá, eu sou o João!
 
-<!--
-**jaaodev/jaaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Uninter)  
+💻 Atualmente aprendendo Java e explorando o mundo da programação  
+🚀 Objetivo: me tornar desenvolvedor back-end e contribuir para projetos open source  
 
-Here are some ideas to get you started:
+🛠 Tecnologias que estou estudando
+- Java
+- Git & GitHub
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Roadmap de aprendizado
+- [x] Fundamentos de Java
+- [x] Programação Orientada a Objetos
+- [ ] Spring Boot
+- [ ] APIs REST
+- [ ] Projetos práticos
