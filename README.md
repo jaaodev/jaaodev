@@ -7,16 +7,18 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (Uninter)
 Atualmente estudando **Java** e explorando o mundo da programação
 
 ## 🚀 Objetivo
-Me tornar desenvolvedor **back-end** e contribuir para projetos **open source**
+Me tornar desenvolvedor **fullstack** e contribuir para projetos **open source**
 
-## 🛠️ Tecnologias que estou estudando
-- Java  
-- Git & GitHub  
-- Lógica de programação  
+## 🛠️ Tecnologias que estou estudando  
+- Lógica de programação
+- Git & GitHub
+- Java
 
 ## 🗺️ Roadmap de aprendizado
 ☑️ Fundamentos de Java  
 ☑️ Programação Orientada a Objetos  
-⬜ Spring Boot  
+⬜ SQL
+⬜ Spring Boot 
+⬜ TypeScript e Angular
 ⬜ APIs REST  
 ⬜ Projetos práticos
