@@ -18,11 +18,7 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 ## 🛠️ Tecnologias que estou estudando
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+[![MySkills](https://skillicons.dev/icons?i=git,github,java&perline=3)](https://skillicons.dev)
 
 ## 🗺️ Roadmap de estudos
 
@@ -36,6 +32,8 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 - [ ] **APIs REST**
 - [ ] **Maven**
 - [ ] **Projetos práticos**
+
+[![MySkills](https://skillicons.dev/icons?i=mysql,springboot,ts,angular,maven&perline=3)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
