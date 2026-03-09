@@ -18,44 +18,28 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 ## 🛠️ Tecnologias que estou estudando
 
-!Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-- Lógica de programação
-- Git & GitHub
-- Java
+## 🗺️ Roadmap de estudos
 
-## 🗺️ Roadmap
-
-!Roadmap https://skillicons.dev/icons?i=java,git,github
-
-
-
-☑️ Fundamentos de Java
-
-
-☑️ Programação Orientada a Objetos
-
-
-⬜ SQL 
-
-
-⬜ Spring Boot 
-
-
-⬜ TypeScript e Angular 
-
-
-⬜ APIs REST
-
-
-⬜ Maven
-
-
-⬜ Projetos práticos
-
-
+- [x] **Lógica de programação**
+- [x] **Git & GitHub**
+- [x] **Java (Fundamentos)**
+- [x] **Programação Orientada a Objetos**
+- [ ] **SQL**
+- [ ] **Spring Boot**
+- [ ] **TypeScript e Angular**
+- [ ] **APIs REST**
+- [ ] **Maven**
+- [ ] **Projetos práticos**
 
 ## 📊 Estatísticas do GitHub
 
-
-!Github Stats
+<p align="left">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</p>
