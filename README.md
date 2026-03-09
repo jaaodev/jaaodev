@@ -33,7 +33,7 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 - [ ] **Maven**
 - [ ] **Projetos práticos**
 
-[![MySkills](https://skillicons.dev/icons?i=mysql,springboot,ts,angular,maven&perline=3)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=mysql,spring,ts,angular,maven&perline=3)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
