@@ -1,23 +1,19 @@
-# Sobre mim
+Sobre mim 👋
+🎓 Formação
+Estudante de Análise e Desenvolvimento de Sistemas (Uninter)
 
-## 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Uninter)
+💻 O que estou aprendendo
+Atualmente estudando Java e explorando o mundo da programação
 
-## 💻 Atualmente estudando **Java** e explorando o mundo da programação
+🚀 Objetivo
+Me tornar desenvolvedor fullstack e contribuir para projetos open source
 
-## 🚀 Meu objetivo é me tornar desenvolvedor **fullstack** e contribuir para projetos **open source**
-
-## 🛠️ Tecnologias que estou estudando  
-- Lógica de programação
-- Git & GitHub
-- Java
-
-## 🗺️ Roadmap de aprendizado
-☑️ Fundamentos de Java  
-☑️ Programação Orientada a Objetos  
-⬜ SQL
-⬜ Spring Boot 
-⬜ TypeScript e Angular
-⬜ APIs REST  
+🛠️ Tecnologias que estou estudando
+Lógica de programação
+Git & GitHub
+Java
+🗺️ Roadmap de aprendizado
+☑️ Fundamentos de Java
+☑️ Programação Orientada a Objetos
+⬜ SQL ⬜ Spring Boot ⬜ TypeScript e Angular ⬜ APIs REST
 ⬜ Projetos práticos
-
-streak-stats.demolab.com/?user=(jaaodev)&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
