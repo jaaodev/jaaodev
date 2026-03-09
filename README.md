@@ -26,7 +26,9 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 ## 🗺️ Roadmap
 
-!Roadmap
+!Roadmap https://skillicons.dev/icons?i=java,git,github
+
+
 
 ☑️ Fundamentos de Java
 
