@@ -1,13 +1,10 @@
-# Olá, eu sou o João! 👋
+# Sobre mim
 
-## 🎓 Formação
-Estudante de **Análise e Desenvolvimento de Sistemas** (Uninter)
+## 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Uninter)
 
-## 💻 O que estou aprendendo
-Atualmente estudando **Java** e explorando o mundo da programação
+## 💻 Atualmente estudando **Java** e explorando o mundo da programação
 
-## 🚀 Objetivo
-Me tornar desenvolvedor **fullstack** e contribuir para projetos **open source**
+## 🚀 Meu objetivo é me tornar desenvolvedor **fullstack** e contribuir para projetos **open source**
 
 ## 🛠️ Tecnologias que estou estudando  
 - Lógica de programação
@@ -22,3 +19,5 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos **open source**
 ⬜ TypeScript e Angular
 ⬜ APIs REST  
 ⬜ Projetos práticos
+
+streak-stats.demolab.com/?user=(jaaodev)&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
