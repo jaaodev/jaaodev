@@ -2,52 +2,58 @@
 
 
 ## 🎓 Formação
-Estudante de Análise e Desenvolvimento de Sistemas (Uninter)
+
+Estudante de **Análise e Desenvolvimento de Sistemas** (Uninter)
 
 
 ## 💻 O que estou aprendendo
-Atualmente estudando Java e explorando o mundo da programação
+
+Atualmente estudando **Java** e explorando o mundo da programação
 
 
 ## 🚀 Objetivo
-Me tornar desenvolvedor fullstack e contribuir para projetos open source
+
+Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 
 ## 🛠️ Tecnologias que estou estudando
 
-<p>
-  https://skillicons.dev/icons?i=java,git,github
-</p>
+!Skills
 
 - Lógica de programação
 - Git & GitHub
 - Java
 
-## 🗺️ Roadmap de aprendizado
-<p>
-  https://skillicons.dev/icons?i=mysql,spring,angular,ts,maven
-</p>
+## 🗺️ Roadmap
+
+!Roadmap
+
 ☑️ Fundamentos de Java
+
 
 ☑️ Programação Orientada a Objetos
 
+
 ⬜ SQL 
+
 
 ⬜ Spring Boot 
 
+
 ⬜ TypeScript e Angular 
+
 
 ⬜ APIs REST
 
+
 ⬜ Maven
+
 
 ⬜ Projetos práticos
 
 
+
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=jaaodev&show_icons=true&theme=dark
-</p>
 
-<p align="center">
+!Github Stats
