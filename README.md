@@ -18,7 +18,9 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 ## 🛠️ Tecnologias que estou estudando
 
-[![MySkills](https://skillicons.dev/icons?i=git,github,java&perline=3)](https://skillicons.dev)
+- Java
+- Git/GitHub
+- 
 
 ## 🗺️ Roadmap de estudos
 
@@ -32,12 +34,3 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 - [ ] **APIs REST**
 - [ ] **Maven**
 - [ ] **Projetos práticos**
-
-[![MySkills](https://skillicons.dev/icons?i=mysql,spring,ts,angular,maven&perline=3)](https://skillicons.dev)
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
