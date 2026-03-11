@@ -20,7 +20,7 @@ Me tornar desenvolvedor **fullstack** e contribuir para projetos open source
 
 - Java
 - Git/GitHub
-- 
+
 
 ## 🗺️ Roadmap de estudos
 
